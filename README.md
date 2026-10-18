@@ -27,16 +27,6 @@ Advance-Java-lab/
 └── README.md
 ```
 
-## 🧪 Labs
-
-| Lab   | Topic                     |
-|-------|---------------------------|
-| LAB-1 | (Add topic here)          |
-| LAB-2 | (Add topic here)          |
-| LAB-3 | (Add topic here)          |
-| LAB-4 | (Add topic here)          |
-| LAB-5 | (Add topic here)          |
-| LAB-6 | (Add topic here)          |
 
 ## 🛠️ Tech Stack
 
